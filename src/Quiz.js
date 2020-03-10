@@ -84,7 +84,7 @@ class Quiz extends Component {
             })
         } else {
             this.setState({
-                announce: "Jobber"
+                announce: "Jabroni"
             })
         }
            event.preventDefault();

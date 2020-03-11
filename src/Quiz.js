@@ -58,7 +58,6 @@ class Quiz extends Component {
                   answer: event.target.value
               })
        } 
-        
     }
 
     handleSub(event){
@@ -108,31 +107,31 @@ class Quiz extends Component {
             <div>
             <h1>Pro Wrestling & MMA Quiz!</h1>
             <form value={this.state.answer} onSubmit={this.handleSub} onChange={this.handleChange}>
-            <form><One /><br/></form>
-            <form><Two/><br/></form>
-            <form><Three/><br/></form>
-            <form><Four/><br/></form>
-            <form><Five/><br/></form>
-            <form><Six/><br/></form>
-            <form><Seven/><br/></form>
-            <form><Eight/><br/></form>
-            <form><Nine/><br/></form>
-            <form><Ten/><br/></form>
-            <form><Eleven/><br/></form>
-            <form><Twelve/><br/></form>
-            <form><Thirteen/><br/></form>
-            <form><Fourteen/><br/></form>
-            <form><Fifteen/><br/></form>
-            <form><Sixteen/><br/></form>
-            <form><Seventeen/><br/></form>
-            <form><Eighteen/><br/></form>
-            <form><Nineteen/><br/></form>
-            <form><Twenty/><br/></form>
-            <form><Tone/><br/></form>
-            <form><Ttwo/><br/></form>
-            <form><Tthree/><br/></form>
-            <form><Tfour/><br/></form>
-            <form><Tfive/><br/></form>    
+            <One/><br/>
+            <Two/><br/>
+            <Three/><br/>
+            <Four/><br/>
+            <Five/><br/>
+            <Six/><br/>
+            <Seven/><br/>
+            <Eight/><br/>
+            <Nine/><br/>
+            <Ten/><br/>
+            <Eleven/><br/>
+            <Twelve/><br/>
+            <Thirteen/><br/>
+            <Fourteen/><br/>
+            <Fifteen/><br/>
+            <Sixteen/><br/>
+            <Seventeen/><br/>
+            <Eighteen/><br/>
+            <Nineteen/><br/>
+            <Twenty/><br/>
+            <Tone/><br/>
+            <Ttwo/><br/>
+            <Tthree/><br/>
+            <Tfour/><br/>
+            <Tfive/><br/>    
             <input type="submit" value="Results!!!"/>
             </form>               
             </div>

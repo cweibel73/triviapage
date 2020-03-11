@@ -5,4 +5,5 @@ form {
 
 button,input {
     font-size: 1.5em;
+    top: auto;
 }

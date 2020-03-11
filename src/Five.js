@@ -6,14 +6,14 @@ class Five extends Component {
         return (
             <div>               
                 <label>Which of these wrestlers was never a member of Demolition under a different name?</label><br />
-                <input type="radio" id="darsow" name="five" value="darsow"/>
-                <label for="darsow">Blacktop Bully</label><br />
-                <input type="radio" id="correct" name="five" value="correct"/>
-                <label for="correct">Adam Bomb</label><br />
-                <input type="radio" id="rex" name="five" value="rex"/>
-                <label for="rex">Moondog Rex</label><br />
-                <input type="radio" id="ax" name="five" value="ax"/>
-                <label for="ax">Masked Superstar</label><br />                              
+                <input type="radio" id="fivea" name="five" value="fivea"/>
+                <label for="fivea">Blacktop Bully</label><br />
+                <input type="radio" id="five" name="five" value="five"/>
+                <label for="five">Adam Bomb</label><br />
+                <input type="radio" id="fiveb" name="five" value="fiveb"/>
+                <label for="fiveb">Moondog Rex</label><br />
+                <input type="radio" id="fivec" name="five" value="fivec"/>
+                <label for="fivec">Masked Superstar</label><br />                              
             </div>
         )
     }

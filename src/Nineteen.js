@@ -6,14 +6,14 @@ class Nineteen extends Component {
         return (
             <div>               
                 <label>What talk show host has trained with Chuck Liddell?</label><br />
-                <input type="radio" id="hall" name="nineteen" value="hall"/>
-                <label for="hall">Arsenio Hall</label><br />
-                <input type="radio" id="tom" name="nineteen" value="tom"/>
-                <label for="tom">Tom Leykis</label><br />
-                <input type="radio" id="jon" name="nineteen" value="jon"/>
-                <label for="jon">Jon Stewart</label><br />
-                <input type="radio" id="correct" name="nineteen" value="correct"/>
-                <label for="correct">Sean Hannity</label><br />                           
+                <input type="radio" id="nineteena" name="nineteen" value="nineteena"/>
+                <label for="nineteena">Arsenio Hall</label><br />
+                <input type="radio" id="nineteenb" name="nineteen" value="nineteenb"/>
+                <label for="nineteenb">Tom Leykis</label><br />
+                <input type="radio" id="nineteenc" name="nineteen" value="nineteenc"/>
+                <label for="nineteenc">Jon Stewart</label><br />
+                <input type="radio" id="nineteen" name="nineteen" value="nineteen"/>
+                <label for="nineteen">Sean Hannity</label><br />                           
             </div>
         )
     }

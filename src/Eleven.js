@@ -6,14 +6,14 @@ class Eleven extends Component {
         return (
             <div>               
                 <label>Which of these fighters won the UFC tournament by only fighting once?</label><br />
-                <input type="radio" id="ruas" name="eleven" value="ruas"/>
-                <label for="ruas">Marco Ruas</label><br />
-                <input type="radio" id="correct" name="eleven" value="correct"/>
-                <label for="correct">Steve Jennum</label><br />
-                <input type="radio" id="fred" name="eleven" value="fred"/>
-                <label for="fred">Fred Ettish</label><br />
-                <input type="radio" id="gracie" name="eleven" value="gracie"/>
-                <label for="gracie">Royce Gracie</label><br />                           
+                <input type="radio" id="elevena" name="eleven" value="elevena"/>
+                <label for="elevena">Marco Ruas</label><br />
+                <input type="radio" id="eleven" name="eleven" value="eleven"/>
+                <label for="eleven">Steve Jennum</label><br />
+                <input type="radio" id="elevenb" name="eleven" value="elevenb"/>
+                <label for="elevenb">Fred Ettish</label><br />
+                <input type="radio" id="elevenc" name="eleven" value="elevenc"/>
+                <label for="elevenc">Royce Gracie</label><br />                           
             </div>
         )
     }

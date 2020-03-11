@@ -6,14 +6,14 @@ class Fourteen extends Component {
         return (
             <div>               
                 <label>Who did Diamond Dallas Page manage while in the AWA?</label><br />
-                <input type="radio" id="xtian" name="fourteen" value="xtian"/>
-                <label for="xtian">Christian</label><br />
-                <input type="radio" id="studd" name="fourteen" value="studd"/>
-                <label for="studd">Diamond Studd</label><br />
-                <input type="radio" id="nick" name="fourteen" value="nick"/>
-                <label for="nick">Nick Bockwinkel</label><br />
-                <input type="radio" id="correct" name="fourteen" value="correct"/>
-                <label for="correct">Badd Company</label><br />                           
+                <input type="radio" id="fourteena" name="fourteen" value="fourteena"/>
+                <label for="fourteena">Christian</label><br />
+                <input type="radio" id="fourteenb" name="fourteen" value="fourteenb"/>
+                <label for="fourteenb">Diamond Studd</label><br />
+                <input type="radio" id="fourteenc" name="fourteen" value="fourteenc"/>
+                <label for="fourteenc">Nick Bockwinkel</label><br />
+                <input type="radio" id="fourteen" name="fourteen" value="fourteen"/>
+                <label for="fourteen">Badd Company</label><br />                           
             </div>
         )
     }

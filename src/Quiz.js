@@ -41,7 +41,7 @@ class Quiz extends Component {
         this.handleSub = this.handleSub.bind(this);
     }
     handleChange(event){
-       if(event.target.value==="correct"&&(corrArr.includes(event.target.name)===false)){
+       if(event.target.value===event.target.name&&(corrArr.includes(event.target.name)===false)){
            corrArr.push(event.target.name);
            this.setState({
             answer: event.target.value,

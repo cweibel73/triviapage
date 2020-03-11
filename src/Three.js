@@ -6,14 +6,14 @@ class Three extends Component {
         return (
             <div>               
                 <label>Which of these wrestlers was never a member of the infamous Four Horsemen?</label><br />
-                <input type="radio" id="roma" name="three" value="roma"/>
-                <label for="roma">Paul Roma</label><br />
-                <input type="radio" id="sid" name="three" value="sid"/>
-                <label for="sid">Sid Vicious</label><br />
-                <input type="radio" id="mongo" name="three" value="mongo"/>
-                <label for="mongo">Steve McMichael</label><br />
-                <input type="radio" id="correct" name="three" value="correct"/>
-                <label for="correct">Paul Orndorff</label><br />                              
+                <input type="radio" id="threea" name="three" value="threea"/>
+                <label for="threea">Paul Roma</label><br />
+                <input type="radio" id="threeb" name="three" value="threeb"/>
+                <label for="threeb">Sid Vicious</label><br />
+                <input type="radio" id="threec" name="three" value="threec"/>
+                <label for="threec">Steve McMichael</label><br />
+                <input type="radio" id="three" name="three" value="three"/>
+                <label for="three">Paul Orndorff</label><br />                              
             </div>
         )
     }

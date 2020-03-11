@@ -6,14 +6,14 @@ class Four extends Component {
         return (
             <div>               
                 <label>What is the name of the opponent Tank Abbott nearly threw over the top of the octagon?</label><br />
-                <input type="radio" id="kimo" name="four" value="kimo"/>
-                <label for="kimo">Kimo</label><br />
-                <input type="radio" id="correct" name="four" value="correct"/>
-                <label for="correct">Cal Worsham</label><br />
-                <input type="radio" id="jennum" name="four" value="jennum"/>
-                <label for="jennum">Steve Jennum</label><br />
-                <input type="radio" id="scott" name="four" value="scott"/>
-                <label for="scott">Scott Ferrozo</label><br />                              
+                <input type="radio" id="foura" name="four" value="foura"/>
+                <label for="foura">Kimo</label><br />
+                <input type="radio" id="four" name="four" value="four"/>
+                <label for="four">Cal Worsham</label><br />
+                <input type="radio" id="fourb" name="four" value="fourb"/>
+                <label for="fourb">Steve Jennum</label><br />
+                <input type="radio" id="fourc" name="four" value="fourc"/>
+                <label for="fourc">Scott Ferrozo</label><br />                              
             </div>
         )
     }

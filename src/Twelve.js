@@ -6,14 +6,14 @@ class Twelve extends Component {
         return (
             <div>               
                 <label>Who was Ronda Rousey's very first opponent in the UFC?</label><br />
-                <input type="radio" id="tate" name="twelve" value="tate"/>
-                <label for="tate">Miesha Tate</label><br />
-                <input type="radio" id="correct" name="twelve" value="correct"/>
-                <label for="correct">Liz Carmouche</label><br />
-                <input type="radio" id="budd" name="twelve" value="budd"/>
-                <label for="budd">Julia Budd</label><br />
-                <input type="radio" id="cat" name="twelve" value="cat"/>
-                <label for="cat">Cat Zingano</label><br />                           
+                <input type="radio" id="twelvea" name="twelve" value="twelvea"/>
+                <label for="twelvea">Miesha Tate</label><br />
+                <input type="radio" id="twelve" name="twelve" value="twelve"/>
+                <label for="twelve">Liz Carmouche</label><br />
+                <input type="radio" id="twelveb" name="twelve" value="twelveb"/>
+                <label for="twelveb">Julia Budd</label><br />
+                <input type="radio" id="twelvec" name="twelve" value="twelvec"/>
+                <label for="twelvec">Cat Zingano</label><br />                           
             </div>
         )
     }

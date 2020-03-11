@@ -6,14 +6,14 @@ class Tthree extends Component {
         return (
             <div>               
                 <label>What wrestler used to date comedian Amy Schumer?</label><br />
-                <input type="radio" id="correct" name="tthree" value="correct"/>
-                <label for="correct">Dolph Ziggler</label><br />
-                <input type="radio" id="cena" name="tthree" value="cena"/>
-                <label for="cena">John Cena</label><br />
-                <input type="radio" id="dave" name="tthree" value="dave"/>
-                <label for="dave">Batista</label><br />
-                <input type="radio" id="bubba" name="tthree" value="bubba"/>
-                <label for="bubba">Bubba Ray Dudley</label><br />                           
+                <input type="radio" id="tthree" name="tthree" value="tthree"/>
+                <label for="tthree">Dolph Ziggler</label><br />
+                <input type="radio" id="tthreea" name="tthree" value="tthreea"/>
+                <label for="tthreea">John Cena</label><br />
+                <input type="radio" id="tthreeb" name="tthree" value="tthreeb"/>
+                <label for="tthreeb">Batista</label><br />
+                <input type="radio" id="tthreec" name="tthree" value="tthreec"/>
+                <label for="tthreec">Bubba Ray Dudley</label><br />                           
             </div>
         )
     }

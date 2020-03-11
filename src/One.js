@@ -6,14 +6,14 @@ class One extends Component {
         return (
             <div>               
                 <label>Who did Hulk Hogan defeat for his first WWF Title?</label><br />
-                <input type="radio" id="correct" name="one" value="correct"/>
-                <label for="correct">Iron Sheik</label><br />
-                <input type="radio" id="andre" name="one" value="andre"/>
-                <label for="andre">Andre The Giant</label><br />
-                <input type="radio" id="perfect" name="one" value="perfect"/>
-                <label for="perfect">Mr Perfect</label><br />
-                <input type="radio" id="ladd" name="one" value="ladd"/>
-                <label for="ladd">Ernie Ladd</label><br />                         
+                <input type="radio" id="one" name="one" value="one"/>
+                <label for="one">Iron Sheik</label><br />
+                <input type="radio" id="onea" name="one" value="onea"/>
+                <label for="onea">Andre The Giant</label><br />
+                <input type="radio" id="oneb" name="one" value="oneb"/>
+                <label for="oneb">Mr Perfect</label><br />
+                <input type="radio" id="onec" name="one" value="onec"/>
+                <label for="onec">Ernie Ladd</label><br />                         
             </div>
         )
     }

@@ -13,7 +13,7 @@ class One extends Component {
                 <input type="radio" id="perfect" name="one" value="perfect"/>
                 <label for="perfect">Mr Perfect</label><br />
                 <input type="radio" id="ladd" name="one" value="ladd"/>
-                <label for="ladd">Ernie Ladd</label><br />                           
+                <label for="ladd">Ernie Ladd</label><br />                         
             </div>
         )
     }
